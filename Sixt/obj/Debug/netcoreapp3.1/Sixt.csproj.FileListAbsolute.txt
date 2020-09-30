@@ -1,0 +1,13 @@
+C:\Users\z003xfny\source\repos\Sixt\Sixt\bin\Debug\netcoreapp3.1\Sixt.exe
+C:\Users\z003xfny\source\repos\Sixt\Sixt\bin\Debug\netcoreapp3.1\Sixt.deps.json
+C:\Users\z003xfny\source\repos\Sixt\Sixt\bin\Debug\netcoreapp3.1\Sixt.runtimeconfig.json
+C:\Users\z003xfny\source\repos\Sixt\Sixt\bin\Debug\netcoreapp3.1\Sixt.runtimeconfig.dev.json
+C:\Users\z003xfny\source\repos\Sixt\Sixt\bin\Debug\netcoreapp3.1\Sixt.dll
+C:\Users\z003xfny\source\repos\Sixt\Sixt\bin\Debug\netcoreapp3.1\Sixt.pdb
+C:\Users\z003xfny\source\repos\Sixt\Sixt\obj\Debug\netcoreapp3.1\Sixt.AssemblyInfoInputs.cache
+C:\Users\z003xfny\source\repos\Sixt\Sixt\obj\Debug\netcoreapp3.1\Sixt.AssemblyInfo.cs
+C:\Users\z003xfny\source\repos\Sixt\Sixt\obj\Debug\netcoreapp3.1\Sixt.csproj.CoreCompileInputs.cache
+C:\Users\z003xfny\source\repos\Sixt\Sixt\obj\Debug\netcoreapp3.1\Sixt.dll
+C:\Users\z003xfny\source\repos\Sixt\Sixt\obj\Debug\netcoreapp3.1\Sixt.pdb
+C:\Users\z003xfny\source\repos\Sixt\Sixt\obj\Debug\netcoreapp3.1\Sixt.genruntimeconfig.cache
+C:\Users\z003xfny\source\repos\Sixt\Sixt\obj\Debug\netcoreapp3.1\Sixt.csprojAssemblyReference.cache
